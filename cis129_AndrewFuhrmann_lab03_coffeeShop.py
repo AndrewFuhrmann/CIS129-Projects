@@ -61,5 +61,7 @@ print("6% tax: $", str(tax))
 print("---------")
 print("total: $", total)
 
+##print thank you
+print("Thank you, come again!")
 ##print receipt asterisks
 print("***************************************")
